@@ -1,0 +1,5 @@
+create user pizza with password 'root'
+
+create database pizza_db owner pizza;
+
+
